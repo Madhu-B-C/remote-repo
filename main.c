@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-	big2()
-	fact()
-	reverse()
+	big2();
+	fact();
+	reverse();
 }
